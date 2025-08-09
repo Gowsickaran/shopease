@@ -1,0 +1,77 @@
+{
+    "items": [
+    {
+      "name": "Bed  (Single / Double / Queen / King)",
+      "price": 32499,  
+      
+      "rating": 4.6,
+      "img": "imgs/furniture-img/image1.png" 
+    },
+    {
+     "name": "Bed  (Single / Double / Queen / King)",
+      "price": 33599,  
+      "delete":34599,
+      "rating": 4.8,
+      "img": "imgs/furniture-img/image2.png" 
+    },
+    {
+     "name": "white pillow",
+      "price": 2300,
+      "delete":3300,  
+      
+      "rating": 4.7,
+      "img": "imgs/furniture-img/image3.png" 
+    },
+    {
+     "name": "Wardrobe / Almirah",
+      "price": 39750,  
+      "delete":40599,
+      "rating": 4.5,
+      "img": "imgs/furniture-img/image4.png" 
+    },
+    {
+     "name": "Nightstand / Bedside Table",
+      "price": 22699,
+      "delete":24788,  
+      "rating": 4.5,
+      "img": "imgs/furniture-img/image5.png" 
+    },
+    {
+     "name": "Coffee Table",
+      "price": 22599,
+      "delete":28699,  
+      "rating": 4.6,
+      "img": "imgs/furniture-img/image6.png" 
+    },
+    {
+      "name": "Zigzag Bookshelf ",
+      "price": 17599,
+      "delete":23000,  
+      "rating": 4.4,
+      "img": "imgs/furniture-img/image7.png"
+    },
+    { 
+      "name": "Dining Table",
+      "price": 23799,  
+      "delete":27699,
+      "rating": 3.5,
+      "img": "imgs/furniture-img/image8.png"
+    },
+    {
+      "name": "Bar Stool / Counter Chair",
+      "price": 15000,  
+      "delete":17300,
+      "rating": 3.5,
+      "img": "imgs/furniture-img/image9.png"
+    },
+    {
+      "name": "Cloud Sofa",
+      "price": 33750,  
+      "delete": 39560,
+      "rating":4.7,
+      "img": "imgs/furniture-img/image10.png"
+    }
+
+
+]
+}

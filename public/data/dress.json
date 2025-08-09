@@ -1,0 +1,220 @@
+{
+     "items": [
+    {
+      "name": "Patchwork Printed Casual Shirt ",
+      "type":"Casual Short Sleeve Shirt",
+      "material":" Usually cotton or polyester blend",
+      "price": 1500,
+      "delete":2000,  
+      "rating": "4.5",
+      "img": "imgs/dress-img/image1.png" ,
+      "sub": "boys"
+      
+    },
+    {
+     "name": "Embroidered Crane Sukajan T-shirt ",
+      "type":"Japanese Streetwear T-shirt",
+      "material":"100% Cotton",
+      "price": 600,
+      "delete":1000,  
+      "rating": 3.2,
+      "img": "imgs/dress-img/image2.png" ,
+       "sub": "boys"
+    },
+     {
+     "name": "Classic Pleated Dress Pants",
+      "type":" Formal Trousers",
+      "material":"Wool Blend (commonly 70–80% wool with polyester or elastane)",
+      "price": 800,  
+      "rating": 3.5,
+      "img": "imgs/dress-img/image3.png",
+       "sub": "boys" 
+     },
+     {
+     "name": " Distressed Skinny Jeans",
+      "type":"Casual Denim Pants",
+      "material":"Cotton with Elastane (typically 98% Cotton, 2% Elastane)",
+      "price": 150,  
+      "rating": 3.5,
+      "img": "imgs/dress-img/image4.png",
+       "sub": "boys" 
+     },
+      {
+     "name": "Asymmetrical Wrap Shirt",
+      "type":"Designer/Avant-Garde Dress Shirt",
+      "material":"Cotton Blend (typically 70–90% Cotton, 10–30% Polyester or Viscose)",
+      "price": 1000,
+      "delete":2000,  
+      "rating": 4.5,
+      "img": "imgs/dress-img/image5.png",
+       "sub": "boys" 
+     },
+      {
+     "name": "Double Border Dhoti",
+      "type":"Traditional Indian Wear (South Indian Style)",
+      "material":"Cotton(often 100% pure cotton)",
+      "price": 900,
+      "delete":1000,  
+      "rating": 4.1,
+      "img": "imgs/dress-img/image6.png",
+       "sub": "boys" 
+     },
+      {
+     "name": " Printed Straight Kurta",
+      "type":" Ethnic Wear / Men's Kurta",
+      "material":"Cotton Blend (typically cotton or cotton-polyester mix)",
+      "price": 600, 
+      "delete":800, 
+      "rating": 3.5,
+      "img": "imgs/dress-img/image7.png",
+       "sub": "boys" 
+       
+     },
+     {
+     "name": " Houndstooth Blazer",
+      "type":"  Formal Checked Blazer / Suit Jacket",
+      "material":"Wool Blend (typically wool with polyester or elastane)",
+      "price": 1000,
+      "delete":1500,  
+      "rating": 3.5,
+      "img": "imgs/dress-img/image8.png",
+       "sub": "boys" 
+     },
+     {
+  "name": "Double-Breasted Blue Suit Blazer",
+  "type": "Formal Double-Breasted Blazer",
+  "material": "Wool or Wool-Blend",
+  "price": 1500,
+  "delete":2000,
+  "rating": 4.5,
+  "img": "imgs/dress-img/image9.png",
+  
+  "sub": "boys"
+}
+,
+     {
+     "name": "Double-Breasted Blue Suit Blazer",
+      "type":"  Formal Double-Breasted Blazer",
+      "material":"Wool or Wool-Blend (with fine weave, possibly tropical wool for lightweight structure)",
+      "price": 300,
+      "delete":500,  
+      "rating": 4.2,
+      "img": "imgs/dress-img/image10.png" ,
+       "sub": "boys"
+     },
+     {
+     "name": "Checked Pattern Lungi Set (Blue Variants)",
+      "type":"Casual/Daily Wear Lungi",
+      "material":" Cotton Blend (durable and soft)",
+      "price": 200,
+       "delete":200, 
+      "rating": 3.5,
+      "img": "imgs/dress-img/image11.png" ,
+       "sub": "boys"
+     },
+      {
+     "name": " Kanjivaram Silk Saree (also spelled Kanchipuram Saree)",
+      "type":"Rich floral motifs and intricate silver zari border",
+      "material":"Pure Silk with Real or Imitation Zari (gold/silver thread work)",
+      "price": 5000,
+      "delete":6000,  
+      "rating": 4.7,
+      "img": "imgs/dress-img/image12.png",
+      "sub": "girls" 
+     },
+     {
+     "name": "Bridal Lehenga Choli (also called Wedding Lehenga)",
+      "type":"Rich red base (traditional bridal color)",
+      "material": "Likely Silk or Satin blend with heavy Zari, Sequins, and Embroidery",
+      "price": 3000,  
+      "delete":4000,
+      "rating": 4.5,
+      "img": "imgs/dress-img/image13.png" ,
+      "sub": "girls" 
+     },
+      {
+     "name": " Handcrafted Anarkali Gown / Bohemian Kalidaar Dress",
+      "type":"Sleeveless bodice with deep neckline,Often handmade with natural dyes and threads",
+      "material": " Pure Cotton or Khadi cotton (handwoven/handloom)",
+      "price": 2000,  
+      "delete":2500,
+      "rating": 4,
+      "img": "imgs/dress-img/image14.png" ,
+      "sub": "girls" 
+     },
+     {
+     "name": " Boxy Linen Shirt",
+      "type":"Relaxed-fit camp collar shirt (also called Cuban collar shirt or oversized linen shirt)",
+      "material": "Most likely 100% Linen or a linen-cotton blend",
+      "price": 1000,
+      "delete":1500,  
+      "rating": 3.7,
+      "img": "imgs/dress-img/image15.png" ,
+      "sub": "girls" 
+     },
+     {
+     "name": "Linen Buttoned Crop Vest / Tank Top",
+      "type":"Relaxed-fit camp collar shirt (also called Cuban collar shirt or oversized linen shirt)",
+      "material": "Women(due to its cropped cut, button placement, and fit style)",
+      "price": 1500,  
+      "delete":1800,
+      "rating": 3.5,
+      "img": "imgs/dress-img/image16.png" ,
+      "sub": "girls" 
+     },
+     {
+     "name": "Striped Boxy Shirt / Cropped Button-Up Shirt",
+      "type":"Boxy Cropped Shirt",
+      "material": "Polyester or Rayon Blend",
+      "price": 2000, 
+      "delete": 2500,
+      "rating": 3.5,
+      "img": "imgs/dress-img/image17.png" ,
+      "sub": "girls" 
+     },
+      {
+     "name": "Polka Dot Ruffle Peplum Top",
+      "type":"Peplum Top with Bell Sleeves",
+      "material": " Lightweight Polyester",
+      "price": 2000,  
+      "delete":2500,
+      "rating": 3.8,
+      "img": "imgs/dress-img/image18.png" ,
+      "sub": "girls" 
+     },
+      {
+     "name": "Layered Tulle Party Dres",
+      "type":"Sleeveless Fit and Flare Dress",
+      "material": "Tulle with Satin Lining",
+      "price": 3500, 
+      "delete":4000, 
+      "rating": 4.5,
+      "img": "imgs/dress-img/image19.png" ,
+      "sub": "girls" 
+     },
+     {
+     "name": "Tassel Hem Kimono Shrug",
+      "type":" Open Front Cape/Kaftan Shrug",
+      "material": " Chiffon",
+      "price": 2000,
+      "delete":2500,  
+      "rating": 4.2,
+      "img": "imgs/dress-img/image20.png" ,
+      "sub": "girls" 
+     },
+     {
+     "name": "kaftan-style gown.",
+      "type":":  flowy, loose-fitting evening or resort dress",
+      "material": "Sheer chiffon, likely made from silk or polyester.",
+      "price": 1500,  
+      "delete":2000,
+      "rating": 3.5,
+      "img": "imgs/dress-img/image21.png" ,
+      "sub": "girls" 
+      
+     }
+
+     
+     
+]
+}

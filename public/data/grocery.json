@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "name": " Black and Wooden Kitchen Pieces with Elegant Design Features, PNG Transparent",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image1.png"
+      
+    },
+    {
+      "name": " Wooden kitchen utensils on white background. Flat lay, top view.t",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image2.png"
+
+    },
+    {
+      
+      "name": " Muted purple tea set (1)",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image3.png"
+      
+    },
+    {
+      
+      "name": " Set of Four Glasses Aligned ",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image4.png"
+      
+    },
+     {
+      
+      "name": "  Non-Stick Frying Pan-black color",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image5.png" 
+    },
+    {
+       "name": "Kitchen Boiling Pot",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image6.png" 
+    },
+     {
+       "name": "Knife",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image7.png" 
+    },
+    {
+      "name": "Touch Stove",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image8.png" 
+    },
+    {
+      "name": "Tong",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image9.png" 
+
+    },
+    {
+      "name": "pleer",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image10.png" 
+    },
+    {
+      "name": "Slotted spoon",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/groceriez-img/image11.png" 
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "name": "Smart Watch",
+      "price": 2000,
+      "delete": 3599,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image1.png",
+      "sub": "boys"
+    },
+    {
+      "name": " TIMEWEAR Quartz Analog Blue Dial",
+      "price": 2000,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image2.png",
+      "sub": "boys"
+    },
+    {
+      "name": "  Leather Strap Watch.",
+      "price": 999,
+      "delete": 1200,
+      "rating": 3.5,
+      "img": "imgs/watch-img/image3.png",
+      "sub": "boys"
+    },
+    {
+        
+      "name": " Analog Watch.",
+      "price": 499,
+      "delete": 800,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image4.png",
+      "sub": "boys"
+    },
+    
+    {
+       "name": "BOULT,Type-C Fast Charging, Made in India, Touch...",
+      "price": 1499,
+      "delete": 2500,
+      "rating": 3.8,
+      "img": "imgs/watch-img/image5.jpg"
+    },
+    {
+     "name": "Noise Buds VS601 Truly Wireless Earbuds",
+      "price": 2000,
+      "delete": 2500,
+      "rating": 4.2,
+      "img": "imgs/watch-img/image6.png"
+    },
+    {
+      "name": "realme Buds T200 Lite",
+      "price": 1500,
+      "delete": 1800,
+      "rating": 4.1,
+      "img": "imgs/watch-img/image7.png"
+    },
+    {
+      "name": "boAt Airdopes Ultra Plus TWS Earbuds",
+      "price": 2000,
+      "delete": 2500,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image8.png"
+    },
+    {
+        
+      "name": "OnePlus Nord Buds 2r True Wireless in Ear Earbuds with Mic",
+      "price": 2499,
+      "delete": 3000,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image9.png"
+    },
+    {
+     "name": "ASUS Vivobook 15 Laptop Intel Core X1504VA-NJ",
+      "price": 54999,
+      "delete": 60000,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image10.png"
+    },
+    {
+    "name": "HP Laptop 15s, 11th Gen Intel Core i5-1135G7",
+      "price": 61499,
+      "delete": 65000,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image11.png"
+    },
+     {
+    "name": "Dell Laptop",
+      "price": 49499,
+      "delete": 50000,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image12.png"
+    },
+    {
+      "name": "Apple MacBook Pro(The silver aluminum unibody,The large black Apple logo centered on the lid)",
+      "price": 147000,
+      "delete": 150000,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image13.png"
+    },
+    {
+      "name": "Beats Studio Pro Wireless Headphones – Sandstone",
+      "price": 10000,
+      "delete": 10500,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image14.png"
+    },
+    {
+      "name": "Beats Flex – All-Day Wireless Earphones – Beats Black",
+      "price": 600,
+      "delete": 700,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image15.png"
+    },
+     {
+      "name": "wire headphone (Lightning Connector)",
+      "price": 300,
+      "delete": 399,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image16.png"
+    },
+    {
+      "name": "iphone 16,128 GB",
+      "price": 68899,
+      "delete": 79900,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image17.png"
+    },
+    {
+      "name": "iphone 16e,8GB of RAM and offer three internal storage options: 128GB, 256GB",
+      "price": 64900,
+      "delete": 65999,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image18.png"
+    },
+    {
+      "name": "iphone 16 Pro Max ,256GB",
+      "price": 135990,
+      "delete": 136900,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image19.png"
+    },
+    {
+      "name": "One plus Bud 3",
+      "price": 4800,
+      "delete": 5600,
+      "rating": 4.5,
+      "img": "imgs/watch-img/image20.png"
+    }
+    
+   
+  ]
+}

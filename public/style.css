@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+.header{
+  background-color: #d34a4a;
+}
+.search-bar input {
+  padding: 7px 10px;
+  border: none;
+  border-radius: 4px;
+  width: 300px;
+  font-size: 14px;
+}
+
+.container {
+  display: flex;
+  min-height: 100vh;
+  
+}
+
+.sidebar {
+  width: 240px;
+  background: #fff;
+  padding: 20px;
+  height: 100px;
+  width: 100px;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  flex: 1;
+  width: 100%;
+  min-height: 300px; 
+  overflow-y: auto;
+}
+
+
+
+
+
+
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  opacity: 0;
+  height: 320px;
+  transform: translateY(10px);
+  transition: 0.3s;
+}
+.card.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.card img {
+  width: 50%;
+  border-radius: 10px;
+}
+
+.card h4 {
+  margin: 10px 0 5px;
+}
+
+.price {
+  font-weight: bold;
+  color: green;
+}
+
+.rating {
+  color: orange;
+}
+
+#subFilter {
+  margin-top: 10px;
+  padding: 6px;
+  width: 100%;
+  font-size: 14px;
+}
+.delete{
+    color: crimson;
+}
+.material {
+  font-size: 13px;
+  color: #555;
+  margin-top: 5px;
+}
+
+
+
+.login-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+.login-form {
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 300px;
+}
+
+.login-form input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.login-form button {
+  background-color: #3471eb;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+  
+
+
+.card.empty-card {
+  background-color: black;
+  color: white;
+  border: 2px dashed #555;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.empty-content p {
+  margin: 0;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+

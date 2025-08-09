@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "name": "daddy",
+      "price": 150,  
+      "delete":200,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image1.png"
+      
+    },
+    {
+      "name": "yo-yo",
+      "price": 150,
+      "delete":239,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image2.png"
+    },
+    {
+      "name": "Puzzles",
+      "price": 2000,
+      "delete":2590,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image3.png"
+    },
+    {
+       "name": "Wooden Train Set",
+      "price": 1500,
+      "delete":2000,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image4.png"
+    },
+    {
+       "name": "Hot Wheels Car",
+      "price": 569,
+      "delete":659,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image5.png"
+    },
+    {
+      "name": "Pull-back Toy  Car",
+      "price": 700,
+      "delete":899,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image6.png"
+    },
+    {
+      "name": "Remote control car(RC)",
+      "price": 799,
+      "delete":860,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image7.png"
+    },
+     {
+      "name": "H102 Velocity RC Boat",
+      "price": 1500,
+      "delete":2000,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image8.png"
+    },
+     {
+      "name": "Remote control helicopter",
+      "price": 2599,
+      "delete":3599,
+      "rating": 3.5,
+      "img": "imgs/toy-img/image9.png"
+    }
+  
+  ]
+}

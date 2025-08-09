@@ -1,0 +1,60 @@
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ShopEase</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="responsive.css" />
+  <link rel="stylesheet" href="cart-style.css" />
+  <link rel="stylesheet" href="auth-style.css">
+</head>
+<body>
+<div class="header">
+  <div class="header-left">
+    <h2>ShopEase</h2>
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search for products like 'watch', 'pan', 'boys'..." />
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="datetime" id="datetime"></div>
+    <button class="cart-btn" onclick="toggleCart()">🛒 Cart</button>
+    <div class="login"><a href="/login.html">Login</a>  
+</div>
+
+</div>
+  </div>
+</div>
+
+
+<div id="cart">
+  <div id="cartContainer"></div>
+  <div id="total">Total: ₹0</div>
+</div>
+
+<div class="container">
+  <div class="sidebar">
+    <label for="categorySelect">Filter by Category:</label>
+    <select id="categorySelect">
+      <option value="all">All</option>
+      
+      <option value="furniture">Furniture Items</option>
+      <option value="electronics">Electronic Items</option>
+      <option value="grocery">Groceries Items</option>
+      <option value="toy">Toys Items</option>
+      <option value="dress">Dress Items</option>
+    </select>
+  </div>
+
+  <div class="products" id="productsContainer">
+    <span class="qty-label">Qty:</span>
+  </div>
+</div>
+
+
+<script src="script.js"></script>
+<script src="js/auth.js"></script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+.type{
+    color: rgb(255, 0, 43);
+    font-weight: 500;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.material{
+    color: rgb(255, 136, 0);
+    font-weight: bold;
+}
+
+
+.product-card img {
+  
+  display: block;
+  transition: all 0.5s ease;
+}
+
+/* 1. Zoom */
+.effect-1:hover img {
+  transform: scale(1.2);
+}
+
+/* 2. Fade */
+.effect-2 img {
+  opacity: 0.6;
+}
+.effect-2:hover img {
+  opacity: 1;
+}
+
+/* 3. Rotate */
+.effect-3:hover img {
+  transform: rotate(8deg);
+}
+
+/* 4. Grayscale to Color */
+.effect-4 img {
+  filter: grayscale(100%);
+}
+.effect-4:hover img {
+  filter: grayscale(0%);
+}
+
+/* 5. Blur to Sharp */
+.effect-5 img {
+  filter: blur(2px);
+}
+.effect-5:hover img {
+  filter: blur(0);
+}
+
+/* 6. Flip-Y */
+.effect-6:hover img {
+  transform: rotateY(180deg);
+}
+
+/* 7. Skew */
+.effect-7:hover img {
+  transform: skewX(15deg);
+}
+
+/* 8. Shadow Pop */
+.effect-8:hover img {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.5);
+}
+
+/* 9. Slide Left */
+.effect-9:hover img {
+  transform: translateX(-10px);
+}
+
+/* 10. Pulse */
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.10); }
+  
+}
+.effect-10:hover img {
+  animation: pulse 0.9s;
+  
+}
+
+/* 11. Slide Bottom */
+.effect-11 img {
+  transform: translateY(20px);
+  opacity: 0;
+}
+.effect-11:hover img {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* 12. Hue Rotate */
+.effect-12:hover img {
+  filter: hue-rotate(90deg);
+}
+
+/* 13. Zoom + Brightness */
+.effect-13:hover img {
+  transform: scale(1.2);
+  filter: brightness(1.2);
+}
+
+/* 14. Radius Change */
+.effect-14:hover img {
+  border-radius: 20px;
+}
+
+/* 15. Rotate In X */
+.effect-15 img {
+  transform: rotateX(90deg);
+  opacity: 0;
+}
+.effect-15:hover img {
+  transform: rotateX(0);
+  opacity: 1;
+}
+
